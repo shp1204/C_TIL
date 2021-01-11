@@ -1,0 +1,10 @@
+﻿  다차원배열.cpp
+C:\Users\won\Source\Repos\배열과포인터\배열과포인터\다차원배열.cpp(27,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  동적메모리.cpp
+  레퍼런스.cpp
+  배열1.cpp
+  배열과포인터.cpp
+  포인터1.cpp
+  함수포인터.cpp
+  Generating Code...
+  배열과포인터.vcxproj -> C:\Users\won\Source\Repos\배열과포인터\Debug\배열과포인터.exe
