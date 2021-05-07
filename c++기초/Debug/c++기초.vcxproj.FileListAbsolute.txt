@@ -1,2 +1,3 @@
 C:\Users\shpar\source\repos\c++기초\Debug\c++기초.exe
 C:\Users\shpar\Desktop\C++\c++기초\Debug\c++기초.exe
+C:\Users\shpar\Desktop\C_TIL\c++기초\Debug\c++기초.exe
