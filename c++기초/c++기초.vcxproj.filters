@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="입출력과 변수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="입출력과 변수_종합문제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
